@@ -1,5 +1,11 @@
 # Freelance
-First ever professional code by earning
+A web scraping tool that parses the french property website.
+
+Tools used:
+
+BeautifulSoup
+Regular expressions
+
 
 
 Example to run:
